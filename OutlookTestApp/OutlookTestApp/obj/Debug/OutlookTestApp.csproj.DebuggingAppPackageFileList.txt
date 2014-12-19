@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\OutlookTestAppManifest.xml
+F:\Visual Studio Projects\OutlookTestApp\OutlookTestApp\bin\Debug\OutlookTestApp.debugapp

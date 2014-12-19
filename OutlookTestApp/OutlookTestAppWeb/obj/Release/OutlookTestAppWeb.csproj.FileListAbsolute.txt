@@ -1,0 +1,6 @@
+F:\Visual Studio Projects\OutlookTestApp\OutlookTestAppWeb\bin\OutlookTestAppWeb.dll.config
+F:\Visual Studio Projects\OutlookTestApp\OutlookTestAppWeb\bin\OutlookTestAppWeb.dll
+F:\Visual Studio Projects\OutlookTestApp\OutlookTestAppWeb\bin\OutlookTestAppWeb.pdb
+F:\Visual Studio Projects\OutlookTestApp\OutlookTestAppWeb\obj\Release\OutlookTestAppWeb.csprojResolveAssemblyReference.cache
+F:\Visual Studio Projects\OutlookTestApp\OutlookTestAppWeb\obj\Release\OutlookTestAppWeb.dll
+F:\Visual Studio Projects\OutlookTestApp\OutlookTestAppWeb\obj\Release\OutlookTestAppWeb.pdb
